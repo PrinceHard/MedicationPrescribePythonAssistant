@@ -1,0 +1,22 @@
+{
+    "nome": "skyler",
+    "acoes": [
+        {
+            "nome": "prescrever",
+            "itens": [
+                "morfina",
+                "ibuprofeno",
+                "dipirona",
+                "paracetamol",
+                "ritalina"
+            ]
+        },
+        {
+            "nome": "listar",
+            "itens":[
+                "prescrições",
+                "remédios"
+            ]
+        }
+    ]
+}

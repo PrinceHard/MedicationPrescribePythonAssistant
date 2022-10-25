@@ -1,0 +1,27 @@
+[
+    {
+        "nome": "Paracetamol",
+        "dosagem": 10,
+        "tempo": 6
+    },
+    {
+        "nome": "Ibuprofeno",
+        "dosagem": 8,
+        "tempo": 6
+    },
+    {
+        "nome": "Dipirona",
+        "dosagem": 15,
+        "tempo": 8
+    },
+    {
+        "nome": "Morfina",
+        "dosagem": 1,
+        "tempo": 24
+    },
+    {
+        "nome": "Ritalina",
+        "dosagem": 2,
+        "tempo": 24
+    }
+]
